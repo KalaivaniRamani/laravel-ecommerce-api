@@ -20,6 +20,13 @@ A RESTful API for basic e-commerce operations built with Laravel 10+ and Sanctum
 -   Create new orders (`POST /api/orders`)
 -   View order history (`GET /api/orders`)
 
+## Design Decisions
+
+1. **Authentication**: Used Laravel Sanctum for token-based API security
+2. **Validation**: Simple in-controller validation for quick development
+3. **Database**: MySQL with clean migrations and test data seeding
+4. **API Design**: RESTful endpoints with JSON responses
+
 ## 🚀 Quick Setup
 
 ```bash
