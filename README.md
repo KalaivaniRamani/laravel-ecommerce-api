@@ -47,3 +47,7 @@ php artisan migrate --seed
 # 5. Start server
 php artisan serve
 ```
+
+### API Testing Screenshot
+
+[View API Documentation PDF](/resources/docs/E-commerce_API_output.pdf)
