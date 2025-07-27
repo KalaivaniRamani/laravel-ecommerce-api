@@ -50,4 +50,4 @@ php artisan serve
 
 ### API Testing Screenshot
 
-[View API Documentation PDF](/resources/docs/E-commerce_API_output.pdf)
+[View API Testing Screenshot](/resources/docs/E-commerce_API_output.pdf)
